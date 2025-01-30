@@ -1,2 +1,2 @@
 # Power-BI-Analysis
-Dashboards criados para análisar dados de diferentes datasets.
+Criação de Dashboards para visualizar e análisar dados.
